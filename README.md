@@ -4,13 +4,13 @@ This document establishes the patterns for building high-performance, accessible
 
 ## Table of Contents
 
-1. [Architecture & The App Router](https://www.google.com/search?q=%231-architecture--the-app-router)
-2. [Naming Conventions & Component Design](https://www.google.com/search?q=%232-naming-conventions--component-design)
-3. [TypeScript & Type Safety](https://www.google.com/search?q=%233-typescript--type-safety)
-4. [State Management Strategy](https://www.google.com/search?q=%234-state-management-strategy)
-5. [Performance Optimization](https://www.google.com/search?q=%235-performance-optimization)
-6. [Styling & UI Consistency](https://www.google.com/search?q=%236-styling--ui-consistency)
-7. [API Consumption & Security](https://www.google.com/search?q=%237-api-consumption--security)
+1. [Architecture & The App Router]
+2. [Naming Conventions & Component Design]
+3. [TypeScript & Type Safety]
+4. [State Management Strategy]
+5. [Performance Optimization]
+6. [Styling & UI Consistency]
+7. [API Consumption & Security]
 
 ---
 
